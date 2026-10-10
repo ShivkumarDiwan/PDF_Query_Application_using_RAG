@@ -1,0 +1,17 @@
+# Environment variables & secrets
+.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Environments
+env/
+venv/
+.venv/
+ENV/
+
+# Streamlit logs/cache
+.streamlit/
